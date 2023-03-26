@@ -1,3 +1,10 @@
+
+this is *just* the core of mesecons turned into a discrete repo for testing purposes. 
+
+*please* don't use this and go to https://github.com/minetest-mods/mesecons
+
+
+--------------
     ########################################################################
     ##  __    __   _____   _____   _____   _____   _____   _   _   _____  ##
     ## |  \  /  | |  ___| |  ___| |  ___| |  ___| |  _  | | \ | | |  ___| ##
